@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import view_PlayerButtons.PlayerButtons?>
+<?import view_joystick.MyJoystick?>
+<?import view_AttributesList.AttributesList?>
+
+<?import view_TimeBoard.TimeBoard?>
+<?import view_Graphs.Graphs?>
+
+<Pane fx:id="board" maxHeight="-Infinity" style="-fx-background-color: #fff;" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="393.0" prefWidth="676.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.ControllerView">
+   <children>
+      <AttributesList fx:id="attributesList" />
+      <MyJoystick fx:id="myJoystick" />
+      <TimeBoard fx:id="timeBoard" />
+      <Graphs fx:id="graphs" />
+      <PlayerButtons fx:id="playerButtons"/>
+      <AnchorPane fx:id="adAnchorePane"/>
+   </children>
+</Pane>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d66805bd-a49c-4b37-8a85-5729d7b33a55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medusa-8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Patam2Proj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SimpleAnomalyDetector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZScoreAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anomaly_flight.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hybridAlgorithm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reg_flight.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/AnomalyDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/AnomalyReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/CorrelatedFeatureForAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/CorrelatedFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/SimpleAnomalyDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/StatLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/WelzlAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/ZScoreAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/hybridAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Attribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/FlightSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/Options.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/model/SimulatorModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/ControllerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viewModel/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viewModel/TimeSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viewModel/ViewModelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_AttributesList/AttributesList.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_AttributesList/AttributesList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_AttributesList/AttributesListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_Graphs/Graphs.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_Graphs/Graphs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_Graphs/GraphsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_PlayerButtons/PlayerButtons.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_PlayerButtons/PlayerButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_PlayerButtons/PlayerButtonsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_TimeBoard/TimeBoard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_TimeBoard/TimeBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_TimeBoard/TimeBoardController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_joystick/MyJoystick.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_joystick/MyJoystick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/view_joystick/MyJoystickController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2MHfiJBAgw71wrnBeX7iE1bkTeq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Unnamed">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.Main" />
+      <module name="Patam2Proj" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path $PROJECT_DIR$/../Downloads/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../Downloads/javafx-sdk-19.0.2.1/lib --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JAR Application.Unnamed" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d66805bd-a49c-4b37-8a85-5729d7b33a55" name="Changes" comment="" />
+      <created>1677429553836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677429553836</updated>
+      <workItem from="1677429555132" duration="1848000" />
+      <workItem from="1677431479208" duration="116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
